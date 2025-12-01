@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Who...",
+  "base_artist": "浜崎あゆみ",
+  "createdAt": "2025-12-01T21:52:51.670719Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "(Remember Me) I'm the One Who Loves You [feat. Fiona Apple]",
+      "artist": "Watkins Family Hour",
+      "has_synced": true,
+      "path": "select/01_(Remember_Me)_I'm_the_One_Who_Loves_You_[feat._Fiona_Apple]_Watkins_Family_Hour.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "(Remember Me) I'm the One Who Loves You",
+      "artist": "Watkins Family Hour",
+      "has_synced": true,
+      "path": "select/02_(Remember_Me)_I'm_the_One_Who_Loves_You_Watkins_Family_Hour.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(Who Says) You Can't Have It All",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/03_(Who_Says)_You_Can't_Have_It_All_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Am I The Only One Who Cares",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/04_Am_I_The_Only_One_Who_Cares_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Am I The Only One Who Cares (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/05_Am_I_The_Only_One_Who_Cares_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Find Out Who Your Friends Are",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/06_Find_Out_Who_Your_Friends_Are_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Girl Who Didn't Care",
+      "artist": "Tenille Townes",
+      "has_synced": true,
+      "path": "select/07_Girl_Who_Didn't_Care_Tenille_Townes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Here's A Quarter [Call Someone Who Cares]",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/08_Here's_A_Quarter_[Call_Someone_Who_Cares]_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Here's a Quarter (Call Someone Who Cares)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/09_Here's_a_Quarter_(Call_Someone_Who_Cares)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Here's a Quarter (Call Someone Who Cares) (2006 Remaster)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/10_Here's_a_Quarter_(Call_Someone_Who_Cares)_(2006_Remaster)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It Wasn't God Who Made Honky Tonk Angels",
+      "artist": "Kitty Wells",
+      "has_synced": true,
+      "path": "select/11_It_Wasn't_God_Who_Made_Honky_Tonk_Angels_Kitty_Wells.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It Wasn't God Who Made Honky Tonk Angels (1952 Single Version)",
+      "artist": "Kitty Wells",
+      "has_synced": false,
+      "path": "select/12_It_Wasn't_God_Who_Made_Honky_Tonk_Angels_(1952_Single_Version)_Kitty_Wells.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It Wasn't God Who Made Honky Tonk Angels (Single Version)",
+      "artist": "Kitty Wells",
+      "has_synced": false,
+      "path": "select/13_It_Wasn't_God_Who_Made_Honky_Tonk_Angels_(Single_Version)_Kitty_Wells.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Man Who Loves You the Most",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/14_The_Man_Who_Loves_You_the_Most_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Ones Who Got Me Here",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/15_The_Ones_Who_Got_Me_Here_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Then Who Am I",
+      "artist": "Charley Pride",
+      "has_synced": false,
+      "path": "select/16_Then_Who_Am_I_Charley_Pride.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Who...",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_Who..._浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "WHO AM I?",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_02_WHO_AM_I_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "WHO KILLED MY DIVA",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_03_WHO_KILLED_MY_DIVA_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Who's that",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_04_Who's_that_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "WHO YOU?",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_05_WHO_YOU_浜崎_あゆみ.txt"
+    }
+  ]
+}
